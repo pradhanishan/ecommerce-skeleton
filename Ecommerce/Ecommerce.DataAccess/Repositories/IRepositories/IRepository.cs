@@ -10,5 +10,7 @@ namespace Ecommerce.DataAccess.Repositories.IRepositories
     {
         Task<IEnumerable<T>> GetAllAsync();
 
+        Task<T> CreateAsync(T Entity);
+
     }
 }

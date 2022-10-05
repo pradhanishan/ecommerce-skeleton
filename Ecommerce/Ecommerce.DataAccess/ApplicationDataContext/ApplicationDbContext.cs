@@ -18,6 +18,16 @@ namespace Ecommerce.DataAccess.ApplicationDataContext
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<ProductCategory>().HasIndex(pc => pc.Name).IsUnique();
+            modelBuilder.Entity<Role>().HasIndex(r => r.Name).IsUnique();
+            modelBuilder.Entity<UserRole>().HasIndex(ur => new { ur.RoleId, ur.UserId }).IsUnique();
+
+            // Seed Admin Data
+
+            modelBuilder.Entity<Role>().HasData(
+                new Role { Id = 1, Name = "Admin" },
+                new Role { Id = 2, Name = "User" }
+                );
+
 
             modelBuilder.Entity<ProductCategory>().HasData
                 (
@@ -33,9 +43,18 @@ namespace Ecommerce.DataAccess.ApplicationDataContext
                     new ProductCategory { Id = 10, Name = "Jewelry" }
                 );
 
+            modelBuilder.Entity<User>().HasIndex(u => u.Username).IsUnique();
+            modelBuilder.Entity<User>().HasIndex(u => u.EmailAddress).IsUnique();
+
         }
 
-        public DbSet<ProductCategory> ProductCategories { get; set; }
+        public DbSet<ProductCategory>? ProductCategories { get; set; }
+        public DbSet<User>? Users { get; set; }
+
+        public DbSet<Role>? Roles { get; set; }
+
+        public DbSet<UserRole>? UserRoles { get; set; }
+
 
     }
 }

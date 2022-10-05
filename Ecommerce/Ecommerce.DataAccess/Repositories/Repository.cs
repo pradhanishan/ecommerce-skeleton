@@ -16,6 +16,13 @@ namespace Ecommerce.DataAccess.Repositories
         {
             _db = db;
         }
+
+        public async Task<T> CreateAsync(T Entity)
+        {
+            await _db.Set<T>().AddAsync(Entity);
+            return Entity;
+        }
+
         public async Task<IEnumerable<T>> GetAllAsync()
         {
             IEnumerable<T> result = await _db.Set<T>().ToListAsync();
