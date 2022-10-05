@@ -16,6 +16,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<ProjectReference Include="..\Ecommerce.Constants\Ecommerce.Constants.csproj" />
 		<ProjectReference Include="..\Ecommerce.Models.DTOS\Ecommerce.Models.DTOS.csproj" />
 		<ProjectReference Include="..\Ecommerce.Models.Entities\Ecommerce.Models.Entities.csproj" />
 	</ItemGroup>

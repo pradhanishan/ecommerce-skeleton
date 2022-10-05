@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Ecommerce.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20221005085541_AddedRolesAndUserRolesToDatabase")]
-    partial class AddedRolesAndUserRolesToDatabase
+    [Migration("20221005101903_InitialMigration")]
+    partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -57,82 +57,82 @@ namespace Ecommerce.DataAccess.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2580), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4708), new TimeSpan(0, 0, 0, 0, 0)),
                             IsActive = true,
                             Name = "Fashion",
-                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2580), new TimeSpan(0, 0, 0, 0, 0))
+                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4709), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 2,
-                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2583), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4710), new TimeSpan(0, 0, 0, 0, 0)),
                             IsActive = true,
                             Name = "Mobiles and Tablets",
-                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2584), new TimeSpan(0, 0, 0, 0, 0))
+                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4710), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 3,
-                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2585), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4711), new TimeSpan(0, 0, 0, 0, 0)),
                             IsActive = true,
                             Name = "Consumer Electronics",
-                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2585), new TimeSpan(0, 0, 0, 0, 0))
+                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4711), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 4,
-                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2586), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4712), new TimeSpan(0, 0, 0, 0, 0)),
                             IsActive = true,
                             Name = "Books",
-                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2586), new TimeSpan(0, 0, 0, 0, 0))
+                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4712), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 5,
-                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2587), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4713), new TimeSpan(0, 0, 0, 0, 0)),
                             IsActive = true,
                             Name = "Movie Tickets",
-                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2587), new TimeSpan(0, 0, 0, 0, 0))
+                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4713), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 6,
-                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2588), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4713), new TimeSpan(0, 0, 0, 0, 0)),
                             IsActive = true,
                             Name = "Baby Products",
-                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2589), new TimeSpan(0, 0, 0, 0, 0))
+                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4714), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 7,
-                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2590), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4714), new TimeSpan(0, 0, 0, 0, 0)),
                             IsActive = true,
                             Name = "Groceries",
-                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2590), new TimeSpan(0, 0, 0, 0, 0))
+                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4714), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 8,
-                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2591), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4715), new TimeSpan(0, 0, 0, 0, 0)),
                             IsActive = true,
                             Name = "Food Takeaway/Delivery",
-                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2591), new TimeSpan(0, 0, 0, 0, 0))
+                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4715), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 9,
-                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2592), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4715), new TimeSpan(0, 0, 0, 0, 0)),
                             IsActive = true,
                             Name = "Home Furnishings",
-                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2592), new TimeSpan(0, 0, 0, 0, 0))
+                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4716), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 10,
-                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2593), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4716), new TimeSpan(0, 0, 0, 0, 0)),
                             IsActive = true,
                             Name = "Jewelry",
-                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 8, 55, 41, 441, DateTimeKind.Unspecified).AddTicks(2593), new TimeSpan(0, 0, 0, 0, 0))
+                            UpdatedDate = new DateTimeOffset(new DateTime(2022, 10, 5, 10, 19, 3, 110, DateTimeKind.Unspecified).AddTicks(4716), new TimeSpan(0, 0, 0, 0, 0))
                         });
                 });
 
@@ -171,9 +171,11 @@ namespace Ecommerce.DataAccess.Migrations
 
             modelBuilder.Entity("Ecommerce.Models.Entities.User", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
                     b.Property<DateTimeOffset>("CreatedDate")
                         .HasColumnType("datetimeoffset");
@@ -223,8 +225,8 @@ namespace Ecommerce.DataAccess.Migrations
                     b.Property<int>("RoleId")
                         .HasColumnType("int");
 
-                    b.Property<Guid>("UserId")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 

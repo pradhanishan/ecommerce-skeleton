@@ -10,6 +10,7 @@ namespace Ecommerce.DataAccess.Repositories.UnitsOfWork
     public interface IUnitOfWork
     {
         public IProductCategoryRepository ProductCategory { get; }
+        public IUserRepository User { get; }
 
         Task SaveAsync();
 

@@ -17,3 +17,5 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\bin\Debug\net6.0\Ecommerce.
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\obj\Debug\net6.0\Ecommerce.DataAccess.csproj.CopyComplete
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\bin\Debug\net6.0\Ecommerce.Models.DTOS.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\bin\Debug\net6.0\Ecommerce.Models.DTOS.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\bin\Debug\net6.0\Ecommerce.Constants.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\bin\Debug\net6.0\Ecommerce.Constants.pdb

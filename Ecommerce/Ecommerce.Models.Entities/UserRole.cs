@@ -14,7 +14,7 @@ namespace Ecommerce.Models.Entities
         public int Id { get; set; }
 
         [Required]
-        public Guid UserId { get; set; }
+        public int UserId { get; set; }
 
         [Required]
         [ForeignKey("UserId")]

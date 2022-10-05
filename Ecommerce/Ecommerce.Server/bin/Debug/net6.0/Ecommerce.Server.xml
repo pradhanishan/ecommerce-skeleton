@@ -4,5 +4,11 @@
         <name>Ecommerce.Server</name>
     </assembly>
     <members>
+        <member name="M:Ecommerce.Server.Controllers.AuthController.Register(Ecommerce.Models.DTOS.User.PostRegisterUserDTO)">
+            <summary>
+             Register a new user
+            </summary>
+            <param name="registerUser"></param>
+        </member>
     </members>
 </doc>

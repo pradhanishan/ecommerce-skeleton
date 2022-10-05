@@ -83,6 +83,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Constants\\Ecommerce.Constants.csproj": {
+                "projectPath": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Constants\\Ecommerce.Constants.csproj"
+              },
               "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Models.DTOS\\Ecommerce.Models.DTOS.csproj": {
                 "projectPath": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Models.DTOS\\Ecommerce.Models.DTOS.csproj"
               },

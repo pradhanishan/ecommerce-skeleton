@@ -1,5 +1,6 @@
 using Ecommerce.DataAccess.ApplicationDataContext;
 using Ecommerce.DataAccess.Repositories.UnitsOfWork;
+using Ecommerce.Services.Server.AuthServices;
 using Ecommerce.Services.Server.ProductCategoryServices;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
@@ -19,7 +20,8 @@ builder.Services.AddEndpointsApiExplorer();
 
 // Swagger
 
-builder.Services.AddSwaggerGen(options => {
+builder.Services.AddSwaggerGen(options =>
+{
     options.SwaggerDoc("v1", new OpenApiInfo
     {
         Version = "v1",
@@ -50,6 +52,7 @@ builder.Services.AddSwaggerGen(options => {
         In = ParameterLocation.Header,
         Description = "JWT Authorization header using the Bearer scheme. \r\n\r\n Enter 'Bearer' [space] and then your token in the text input below.\r\n\r\nExample: \"Bearer 1safsfsdfdfd\"",
     });
+
     options.AddSecurityRequirement(new OpenApiSecurityRequirement {
         {
             new OpenApiSecurityScheme {
@@ -61,13 +64,15 @@ builder.Services.AddSwaggerGen(options => {
             new string[] {}
         }
     });
+
+
 });
 
 
 // SQL Server connection
 builder.Services.AddDbContext<ApplicationDbContext>
     (
-    options=>options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
+    options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
     );
 
 // CORS Policy
@@ -96,6 +101,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IProductCategoryService, ProductCategoryService>();
+builder.Services.AddScoped<IAuthService, AuthService>();
 
 // Auto Mapper
 
@@ -107,7 +113,10 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(options =>
+    {
+        options.DefaultModelsExpandDepth(-1);
+    });
 }
 
 app.UseHttpsRedirection();

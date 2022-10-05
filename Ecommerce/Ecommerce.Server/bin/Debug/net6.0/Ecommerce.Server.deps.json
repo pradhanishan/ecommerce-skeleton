@@ -533,6 +533,7 @@
       "Ecommerce.DataAccess/1.0.0": {
         "dependencies": {
           "AutoMapper": "12.0.0",
+          "Ecommerce.Constants": "1.0.0",
           "Ecommerce.Models.DTOS": "1.0.0",
           "Ecommerce.Models.Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9"

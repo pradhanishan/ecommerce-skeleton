@@ -799,6 +799,16 @@
           }
         }
       },
+      "Ecommerce.Constants/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Ecommerce.Constants.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.Constants.dll": {}
+        }
+      },
       "Ecommerce.Models.DTOS/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2056,6 +2066,11 @@
         "version.txt"
       ]
     },
+    "Ecommerce.Constants/1.0.0": {
+      "type": "project",
+      "path": "../Ecommerce.Constants/Ecommerce.Constants.csproj",
+      "msbuildProject": "../Ecommerce.Constants/Ecommerce.Constants.csproj"
+    },
     "Ecommerce.Models.DTOS/1.0.0": {
       "type": "project",
       "path": "../Ecommerce.Models.DTOS/Ecommerce.Models.DTOS.csproj",
@@ -2070,6 +2085,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "AutoMapper >= 12.0.0",
+      "Ecommerce.Constants >= 1.0.0",
       "Ecommerce.Models.DTOS >= 1.0.0",
       "Ecommerce.Models.Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.9",
@@ -2103,6 +2119,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Constants\\Ecommerce.Constants.csproj": {
+              "projectPath": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Constants\\Ecommerce.Constants.csproj"
+            },
             "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Models.DTOS\\Ecommerce.Models.DTOS.csproj": {
               "projectPath": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Models.DTOS\\Ecommerce.Models.DTOS.csproj"
             },

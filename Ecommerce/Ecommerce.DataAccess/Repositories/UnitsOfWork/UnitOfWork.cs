@@ -16,9 +16,12 @@ namespace Ecommerce.DataAccess.Repositories.UnitsOfWork
         {
             _db = db;
             ProductCategory = new ProductCategoryRepository(_db);
+            User = new UserRepository(_db);
         }
 
         public IProductCategoryRepository ProductCategory { get; private set; }
+
+        public IUserRepository User { get; private set; }
 
         public async Task SaveAsync()
         {
