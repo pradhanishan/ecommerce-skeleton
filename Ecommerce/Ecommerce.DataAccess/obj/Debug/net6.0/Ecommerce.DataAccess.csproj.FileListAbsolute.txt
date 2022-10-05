@@ -10,3 +10,5 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\obj\Debug\net6.0\Ecommerce.
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\obj\Debug\net6.0\refint\Ecommerce.DataAccess.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\obj\Debug\net6.0\Ecommerce.DataAccess.pdb
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\obj\Debug\net6.0\ref\Ecommerce.DataAccess.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\bin\Debug\net6.0\Ecommerce.DataAccess.runtimeconfig.json
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\obj\Debug\net6.0\Ecommerce.DataAccess.genruntimeconfig.cache
