@@ -12,3 +12,8 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\obj\Debug\net6.0\Ecommerce.
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\obj\Debug\net6.0\ref\Ecommerce.DataAccess.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\bin\Debug\net6.0\Ecommerce.DataAccess.runtimeconfig.json
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\obj\Debug\net6.0\Ecommerce.DataAccess.genruntimeconfig.cache
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\bin\Debug\net6.0\Ecommerce.Models.Entities.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\bin\Debug\net6.0\Ecommerce.Models.Entities.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\obj\Debug\net6.0\Ecommerce.DataAccess.csproj.CopyComplete
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\bin\Debug\net6.0\Ecommerce.Models.DTOS.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.DataAccess\bin\Debug\net6.0\Ecommerce.Models.DTOS.pdb

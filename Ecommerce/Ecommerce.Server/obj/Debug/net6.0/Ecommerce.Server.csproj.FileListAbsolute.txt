@@ -64,3 +64,13 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Server\bin\Debug\net6.0\runtimes\win\l
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Server\bin\Debug\net6.0\Ecommerce.DataAccess.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Server\bin\Debug\net6.0\Ecommerce.DataAccess.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Server\bin\Debug\net6.0\Ecommerce.Models.Entities.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Server\bin\Debug\net6.0\Ecommerce.Models.Entities.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Server\bin\Debug\net6.0\Ecommerce.Server.xml
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Server\bin\Debug\net6.0\Ecommerce.Constants.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Server\bin\Debug\net6.0\Ecommerce.Models.DTOS.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Server\bin\Debug\net6.0\Ecommerce.Services.Server.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Server\bin\Debug\net6.0\Ecommerce.Services.Server.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Server\bin\Debug\net6.0\Ecommerce.Constants.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Server\bin\Debug\net6.0\Ecommerce.Models.DTOS.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Server\obj\Debug\net6.0\Ecommerce.Server.xml

@@ -798,6 +798,26 @@
             "rid": "win"
           }
         }
+      },
+      "Ecommerce.Models.DTOS/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Ecommerce.Models.DTOS.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.Models.DTOS.dll": {}
+        }
+      },
+      "Ecommerce.Models.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Ecommerce.Models.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.Models.Entities.dll": {}
+        }
       }
     }
   },
@@ -2035,11 +2055,23 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Ecommerce.Models.DTOS/1.0.0": {
+      "type": "project",
+      "path": "../Ecommerce.Models.DTOS/Ecommerce.Models.DTOS.csproj",
+      "msbuildProject": "../Ecommerce.Models.DTOS/Ecommerce.Models.DTOS.csproj"
+    },
+    "Ecommerce.Models.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Ecommerce.Models.Entities/Ecommerce.Models.Entities.csproj",
+      "msbuildProject": "../Ecommerce.Models.Entities/Ecommerce.Models.Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "AutoMapper >= 12.0.0",
+      "Ecommerce.Models.DTOS >= 1.0.0",
+      "Ecommerce.Models.Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.9",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.9"
     ]
@@ -2070,7 +2102,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Models.DTOS\\Ecommerce.Models.DTOS.csproj": {
+              "projectPath": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Models.DTOS\\Ecommerce.Models.DTOS.csproj"
+            },
+            "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Models.Entities\\Ecommerce.Models.Entities.csproj": {
+              "projectPath": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Models.Entities\\Ecommerce.Models.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
