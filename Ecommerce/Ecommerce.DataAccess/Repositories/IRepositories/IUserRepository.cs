@@ -15,5 +15,9 @@ namespace Ecommerce.DataAccess.Repositories.IRepositories
 
         Task<bool> IsEmailAddressTaken(string emailAddress);
 
+        Task<bool> DoesUserWithSaidUsernameOrEmailAddressExist(string userIdentifier);
+
+        Task<string> GetUserRole(string userIdentifier);
+
     }
 }

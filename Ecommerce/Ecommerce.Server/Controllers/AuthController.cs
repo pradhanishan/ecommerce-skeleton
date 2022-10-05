@@ -41,5 +41,24 @@ namespace Ecommerce.Server.Controllers
 
         }
 
+        [HttpPost("login")]
+
+        public async Task<ActionResult<ServiceResponse<string>>> Login(PostLoginUserDTO loginUser)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest();
+            }
+
+            var response = await _authService.LoginUser(loginUser);
+            return response.StatusCode switch
+            {
+                200 => (ActionResult<ServiceResponse<string>>)Ok(response),
+                401 => (ActionResult<ServiceResponse<string>>)BadRequest(response),
+                _ => (ActionResult<ServiceResponse<string>>)Problem(detail: response.Message, statusCode: StatusCodes.Status500InternalServerError, title: response.Message),
+            };
+        }
+
+
     }
 }

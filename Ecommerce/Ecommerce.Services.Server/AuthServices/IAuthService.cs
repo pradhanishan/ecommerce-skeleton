@@ -10,5 +10,8 @@ namespace Ecommerce.Services.Server.AuthServices
     public interface IAuthService
     {
         Task<ServiceResponse<GetRegisterUserDTO>> RegisterUser(PostRegisterUserDTO registerUser);
+
+        Task<ServiceResponse<string>> LoginUser(PostLoginUserDTO loginUser);
+
     }
 }

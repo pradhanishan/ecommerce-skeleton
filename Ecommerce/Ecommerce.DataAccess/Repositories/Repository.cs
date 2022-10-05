@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -27,6 +28,13 @@ namespace Ecommerce.DataAccess.Repositories
         {
             IEnumerable<T> result = await _db.Set<T>().ToListAsync();
             return result;
+        }
+
+        public async Task<T> GetAsync(Expression<Func<T, bool>> filter)
+        {
+            IQueryable<T> query = _db.Set<T>();
+            query = query.Where(filter);
+            return await query.FirstOrDefaultAsync();
         }
     }
 }

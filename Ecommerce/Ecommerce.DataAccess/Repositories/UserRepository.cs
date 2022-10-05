@@ -20,6 +20,29 @@ namespace Ecommerce.DataAccess.Repositories
             _db = db;
         }
 
+        public async Task<bool> DoesUserWithSaidUsernameOrEmailAddressExist(string userIdentifier)
+        {
+            return await _db.Users!.AnyAsync(
+                u =>
+                u.Username.ToLower().Equals(userIdentifier.ToLower())
+                || u.EmailAddress.ToLower().Equals(userIdentifier.ToLower())
+                );
+        }
+
+        public async Task<string> GetUserRole(string userIdentifier)
+        {
+            User? user = await _db.Users!.FirstOrDefaultAsync
+                (x => x.Username.ToLower().Equals(userIdentifier.ToLower()) ||
+                x.EmailAddress.ToLower().Equals(userIdentifier.ToLower())
+                );
+
+            UserRole? userRole = await _db.UserRoles!.FirstOrDefaultAsync(ur => ur.UserId == user!.Id);
+
+            Role role = await _db.Roles.FirstOrDefaultAsync(r => r.Id == userRole.RoleId);
+
+            return role.Name;
+        }
+
         public async Task<bool> IsEmailAddressTaken(string emailAddress)
         {
             return await _db.Users!.AnyAsync(u => u.EmailAddress.ToLower().Equals(emailAddress.ToLower()));
