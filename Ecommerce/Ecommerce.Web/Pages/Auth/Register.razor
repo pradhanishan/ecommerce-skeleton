@@ -79,7 +79,7 @@
 		if (response.IsSuccessful)
 		{
 			IsProcessSuccessful = true;
-			await IJSRuntime.InvokeVoidAsync("RegistrationSuccessHandler");
+			await IJSRuntime.InvokeVoidAsync("SuccessHandler", "Registration successful, Login to continue");
 			NavigationManager.NavigateTo("auth/login");
 		}
 		else

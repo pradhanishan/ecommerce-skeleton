@@ -3,6 +3,7 @@
 @inject IAuthService AuthService
 @inject NavigationManager NavigationManager
 @inject ILocalStorageService LocalStorage
+@inject IJSRuntime IJSRuntime
 
 <div class="w-100 d-xl-flex flex-column justify-content-center align-items-center text-center">
 	<h3>Login</h3>
@@ -27,14 +28,15 @@
 			<NavLink class="btn btn-outline-secondary w-100" href="auth/register">I don't have an account</NavLink>
 		</div>
 	</EditForm>
+	@if (IsProcessComplete & !IsProcessSuccessful)
+	{
+		<div>
+			<span class="text-danger">@serverResponseMessage</span>
+		</div>
+	}
+
 </div>
 
-@if (IsProcessComplete & !IsProcessSuccessful)
-{
-	<div>
-		<span class="text-danger">@serverResponseMessage</span>
-	</div>
-}
 
 @code {
 	private bool IsProcessComplete = false;
@@ -54,6 +56,7 @@
 		{
 			IsProcessSuccessful = true;
 			await LocalStorage.SetItemAsync("authToken", $"Bearer {response.Data}");
+			await IJSRuntime.InvokeVoidAsync("SuccessHandler", "Login successful");
 			NavigationManager.NavigateTo("");
 
 		}

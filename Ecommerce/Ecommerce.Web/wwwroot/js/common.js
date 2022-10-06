@@ -1,10 +1,10 @@
 ﻿
-window.RegistrationSuccessHandler = () => {
+window.SuccessHandler = (message) => {
 
     Swal.fire({
         position: 'top-end',
         icon: 'success',
-        title: 'Registration successful. Login to continue',
+        title: message,
         showConfirmButton: false,
         timer: 3000
     })

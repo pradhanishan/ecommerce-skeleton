@@ -205,7 +205,7 @@
       "Ecommerce.Constants.dll": "sha256-x6kkz1z0YHocSvbEDXhmshE5rmFxucrG+Rb2tmAkyHg=",
       "Ecommerce.Models.DTOS.dll": "sha256-CpPxP\/Q9F8TX0jI5+RRhqbldA8ad5\/5CJnLnj111jOc=",
       "Ecommerce.Services.UI.dll": "sha256-E\/C0++AM0lGud1uU67QDbsJ7YWjSs3AKjYaen1k5wms=",
-      "Ecommerce.Web.dll": "sha256-KBGP4v9MXkkgqstq3NtsPVtAzaiEN8KqtklN53fLsBg="
+      "Ecommerce.Web.dll": "sha256-QhhKNkjwbaMxckOsDcGLrH8xZPOlYWFYsj2o8HvCt9o="
     },
     "extensions": null,
     "lazyAssembly": null,
@@ -214,7 +214,7 @@
       "Ecommerce.Constants.pdb": "sha256-rddEDgSTPcsuTwFriONKmbF5HRgPiQhPCgYE48hYyY4=",
       "Ecommerce.Services.UI.pdb": "sha256-aUgQ3o4sPl7lZ6crlz+nhewMubaq7MxI\/UTRFrfeBM8=",
       "Ecommerce.Models.DTOS.pdb": "sha256-Tv4MiNEgpmPAHfpme\/6As3ulZFmsxnJYAJQVuy8MB5Q=",
-      "Ecommerce.Web.pdb": "sha256-h\/YN\/Qj620HnTEDi9MT1xhhqVQKLlyAb7l5PCH8uMxc="
+      "Ecommerce.Web.pdb": "sha256-rH8fCl7J6jzldO0QHTcdiwXVNBpxM2LtJ\/WdDh4zHcg="
     },
     "runtime": {
       "dotnet.6.0.8.0erzr5p10q.js": "sha256-WT60vnXnQtCNURE40qo+XSL1o4iYFvABy0NVaFhm7MI=",
