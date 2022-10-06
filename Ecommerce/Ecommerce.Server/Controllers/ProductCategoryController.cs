@@ -1,6 +1,7 @@
 ﻿using Ecommerce.Models.DTOS.ProductCategory;
 using Ecommerce.Services.Server;
 using Ecommerce.Services.Server.ProductCategoryServices;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Reflection;
@@ -9,6 +10,7 @@ namespace Ecommerce.Server.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ProductCategoryController : ControllerBase
     {
 

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ namespace Ecommerce.Models.DTOS.User
     public sealed class PostLoginUserDTO
     {
         [Required]
+        [Display(Name ="Username or Email")]
         public string UsernameOrEmailAddress { get; set; } = string.Empty;
 
         [Required]

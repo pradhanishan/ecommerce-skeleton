@@ -1,0 +1,17 @@
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\bin\Release\net6.0\Ecommerce.Services.UI.deps.json
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\bin\Release\net6.0\Ecommerce.Services.UI.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\bin\Release\net6.0\Ecommerce.Services.UI.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\bin\Release\net6.0\Ecommerce.Constants.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\bin\Release\net6.0\Ecommerce.Models.DTOS.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\bin\Release\net6.0\Ecommerce.Constants.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\bin\Release\net6.0\Ecommerce.Models.DTOS.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\obj\Release\net6.0\Ecommerce.Services.UI.csproj.AssemblyReference.cache
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\obj\Release\net6.0\Ecommerce.Services.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\obj\Release\net6.0\Ecommerce.Services.UI.AssemblyInfoInputs.cache
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\obj\Release\net6.0\Ecommerce.Services.UI.AssemblyInfo.cs
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\obj\Release\net6.0\Ecommerce.Services.UI.csproj.CoreCompileInputs.cache
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\obj\Release\net6.0\Ecommerce.Services.UI.csproj.CopyComplete
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\obj\Release\net6.0\Ecommerce.Services.UI.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\obj\Release\net6.0\refint\Ecommerce.Services.UI.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\obj\Release\net6.0\Ecommerce.Services.UI.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Services.UI\obj\Release\net6.0\ref\Ecommerce.Services.UI.dll

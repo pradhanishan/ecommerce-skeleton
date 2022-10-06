@@ -1,0 +1,67 @@
+﻿@page "/auth/login"
+
+@inject IAuthService AuthService
+@inject NavigationManager NavigationManager
+@inject ILocalStorageService LocalStorage
+
+<div class="w-100 d-xl-flex flex-column justify-content-center align-items-center text-center">
+	<h3>Login</h3>
+
+	<EditForm Model="loginUser" OnValidSubmit="HandleLoginRequest">
+		<DataAnnotationsValidator />
+		<div class="form-floating mb-3">
+			<InputText @bind-Value="loginUser.UsernameOrEmailAddress" type="email" class="form-control" id="floatingInput" placeholder="name@example.com" />
+			<label for="floatingInput">Username or Email</label>
+			<ValidationMessage For="()=>loginUser.UsernameOrEmailAddress" />
+		</div>
+		<div class="form-floating">
+			<InputText @bind-Value="loginUser.Password" type="password" class="form-control" id="floatingPassword" placeholder="Password" />
+			<label for="floatingPassword">Password</label>
+			<ValidationMessage For="()=>loginUser.Password" />
+		</div>
+		<div class="btn-group mt-3 w-100">
+			<button class="btn btn-success" style="width:50%;">Submit</button>
+			<button class="btn btn-danger" style="width:50%;">Clear</button>
+		</div>
+		<div class="mt-3 w-100">
+			<NavLink class="btn btn-outline-secondary w-100" href="auth/register">I don't have an account</NavLink>
+		</div>
+	</EditForm>
+</div>
+
+@if (IsProcessComplete & !IsProcessSuccessful)
+{
+	<div>
+		<span class="text-danger">@serverResponseMessage</span>
+	</div>
+}
+
+@code {
+	private bool IsProcessComplete = false;
+	private bool IsProcessSuccessful = false;
+	private bool IsProcessing = false;
+	private PostLoginUserDTO loginUser = new();
+	private string serverResponseMessage = string.Empty;
+	private async Task HandleLoginRequest()
+	{
+		IsProcessing = true;
+		IsProcessComplete = false;
+		IsProcessSuccessful = false;
+		var response = await AuthService.Login(loginUser);
+		IsProcessComplete = true;
+		IsProcessing = false;
+		if (response.IsSuccessful)
+		{
+			IsProcessSuccessful = true;
+			await LocalStorage.SetItemAsync("authToken", $"Bearer {response.Data}");
+			NavigationManager.NavigateTo("");
+
+		}
+		else
+		{
+			serverResponseMessage = response.Message;
+			IsProcessSuccessful = false;
+		}
+	}
+
+}

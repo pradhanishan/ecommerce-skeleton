@@ -1,0 +1,12 @@
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.Entities\bin\Release\net6.0\Ecommerce.Models.Entities.deps.json
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.Entities\bin\Release\net6.0\Ecommerce.Models.Entities.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.Entities\bin\Release\net6.0\Ecommerce.Models.Entities.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.Entities\obj\Release\net6.0\Ecommerce.Models.Entities.csproj.AssemblyReference.cache
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.Entities\obj\Release\net6.0\Ecommerce.Models.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.Entities\obj\Release\net6.0\Ecommerce.Models.Entities.AssemblyInfoInputs.cache
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.Entities\obj\Release\net6.0\Ecommerce.Models.Entities.AssemblyInfo.cs
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.Entities\obj\Release\net6.0\Ecommerce.Models.Entities.csproj.CoreCompileInputs.cache
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.Entities\obj\Release\net6.0\Ecommerce.Models.Entities.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.Entities\obj\Release\net6.0\refint\Ecommerce.Models.Entities.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.Entities\obj\Release\net6.0\Ecommerce.Models.Entities.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.Entities\obj\Release\net6.0\ref\Ecommerce.Models.Entities.dll

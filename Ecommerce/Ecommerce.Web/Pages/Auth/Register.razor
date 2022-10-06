@@ -1,0 +1,92 @@
+﻿@page "/auth/register"
+@inject IAuthService AuthService
+@inject NavigationManager NavigationManager
+@inject IJSRuntime IJSRuntime
+
+<div class="w-100 d-xl-flex flex-column justify-content-center align-items-center text-center">
+	<h3>Register</h3>
+
+	<EditForm Model="registerUser" OnValidSubmit="HandleRegisterRequest">
+		<DataAnnotationsValidator />
+		<div class="form-floating mb-3">
+			<InputText @bind-Value="registerUser.Username" type="text" class="form-control" placeholder="john doe" />
+			<label for="floatingInput">Username</label>
+			<ValidationMessage For="()=>registerUser.Username" />
+		</div>
+
+		<div class="form-floating mb-3">
+			<InputText @bind-Value="registerUser.EmailAddress" type="email" class="form-control" placeholder="name@example.com" />
+			<label for="floatingInput">Email Address</label>
+			<ValidationMessage For="()=>registerUser.EmailAddress" />
+		</div>
+
+		<div class="form-floating mb-3">
+			<InputText @bind-Value="registerUser.Password" type="password" class="form-control" placeholder="Password" />
+			<label for="floatingPassword">Password</label>
+			<ValidationMessage For="()=>registerUser.Password" />
+		</div>
+
+		<div class="form-floating">
+			<InputText @bind-Value="registerUser.ConfirmPassword" type="password" class="form-control" placeholder="Confirm Password" />
+			<label for="floatingPassword">Confirm Password</label>
+			<ValidationMessage For="()=>registerUser.ConfirmPassword" />
+		</div>
+
+		<div class="btn-group mt-3 w-100">
+			<button class="btn btn-success" style="width:50%;">Submit</button>
+			<button class="btn btn-danger" style="width:50%;">Clear</button>
+		</div>
+
+		<div class="mt-3 w-100">
+			<NavLink class="btn btn-outline-secondary w-100" href="auth/login">Login Instead</NavLink>
+		</div>
+
+	</EditForm>
+
+	@if (IsProcessing)
+	{
+		<div class="spinner-grow" role="status">
+			<span class="visually-hidden">Loading...</span>
+		</div>
+	}
+
+	@if (IsProcessComplete && !IsProcessSuccessful)
+	{
+		<div>
+			<span class="text-danger">@serverResponseMessage</span>
+		</div>
+	}
+
+
+</div>
+
+
+@code {
+	private bool IsProcessComplete = false;
+	private bool IsProcessSuccessful = false;
+	private bool IsProcessing = false;
+	private PostRegisterUserDTO registerUser = new();
+	private string serverResponseMessage = string.Empty;
+
+	private async Task HandleRegisterRequest()
+	{
+		IsProcessing = true;
+		IsProcessComplete = false;
+		IsProcessSuccessful = false;
+		var response = await AuthService.Register(registerUser);
+		IsProcessComplete = true;
+		IsProcessing = false;
+		if (response.IsSuccessful)
+		{
+			IsProcessSuccessful = true;
+			await IJSRuntime.InvokeVoidAsync("RegistrationSuccessHandler");
+			NavigationManager.NavigateTo("auth/login");
+		}
+		else
+		{
+			serverResponseMessage = response.Message;
+			IsProcessSuccessful = false;
+		}
+	}
+
+}

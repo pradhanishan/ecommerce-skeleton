@@ -1,0 +1,12 @@
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Constants\bin\Release\net6.0\Ecommerce.Constants.deps.json
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Constants\bin\Release\net6.0\Ecommerce.Constants.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Constants\bin\Release\net6.0\Ecommerce.Constants.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Constants\obj\Release\net6.0\Ecommerce.Constants.csproj.AssemblyReference.cache
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Constants\obj\Release\net6.0\Ecommerce.Constants.GeneratedMSBuildEditorConfig.editorconfig
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Constants\obj\Release\net6.0\Ecommerce.Constants.AssemblyInfoInputs.cache
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Constants\obj\Release\net6.0\Ecommerce.Constants.AssemblyInfo.cs
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Constants\obj\Release\net6.0\Ecommerce.Constants.csproj.CoreCompileInputs.cache
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Constants\obj\Release\net6.0\Ecommerce.Constants.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Constants\obj\Release\net6.0\refint\Ecommerce.Constants.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Constants\obj\Release\net6.0\Ecommerce.Constants.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Constants\obj\Release\net6.0\ref\Ecommerce.Constants.dll

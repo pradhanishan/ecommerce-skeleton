@@ -3,6 +3,12 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framewor
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.8.0erzr5p10q.js
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Ecommerce.Constants.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Ecommerce.Constants.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Ecommerce.Models.DTOS.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Ecommerce.Models.DTOS.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Ecommerce.Services.UI.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Ecommerce.Services.UI.pdb
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Ecommerce.Web.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Ecommerce.Web.pdb
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\icudt.dat
@@ -14,6 +20,8 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framewor
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Features.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
@@ -38,6 +46,7 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framewor
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
@@ -230,6 +239,7 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framewor
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Features.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
@@ -240,6 +250,7 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framewor
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Ecommerce.Constants.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
@@ -280,8 +291,10 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framewor
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Ecommerce.Constants.pdb.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Ecommerce.Services.UI.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\icudt.dat.gz
@@ -323,12 +336,14 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framewor
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Ecommerce.Services.UI.pdb.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Ecommerce.Models.DTOS.pdb.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
@@ -348,6 +363,7 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framewor
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Ecommerce.Models.DTOS.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
@@ -357,6 +373,7 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framewor
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Ecommerce.Web.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
@@ -369,6 +386,7 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framewor
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Abstractions.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
@@ -405,6 +423,8 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Microsoft.AspNetC
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
@@ -422,6 +442,7 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensi
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Microsoft.JSInterop.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\System.IO.Pipelines.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Microsoft.CSharp.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
@@ -596,6 +617,12 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\icudt.dat
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\icudt_CJK.dat
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\icudt_EFIGS.dat
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\icudt_no_CJK.dat
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Ecommerce.Constants.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Ecommerce.Models.DTOS.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Ecommerce.Services.UI.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Ecommerce.Constants.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Ecommerce.Services.UI.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Ecommerce.Models.DTOS.pdb
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\Ecommerce.Web.csproj.AssemblyReference.cache
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\Ecommerce.Web.GeneratedMSBuildEditorConfig.editorconfig
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\Ecommerce.Web.AssemblyInfoInputs.cache
@@ -607,6 +634,8 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\YSrp08KE
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\fbN0tBWX.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\jxPb5bpC.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\+X+sKlVx.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\vDPFICEC.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\9N+BY0N4.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\IK9u+ovF.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\jA6OU+cW.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\XEG5NMxR.gz
@@ -624,6 +653,7 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\zdilZ+qY
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\NykzQvmE.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\qhQcVl01.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\R8IZTSTT.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\tTlCd0o7.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\XsXsTE80.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\d29IlqXi.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\XoRbzmr7.gz
@@ -798,6 +828,12 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\IoDGLCDS
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\b++lQcP+.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\NmyklLNp.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\ZHW0rpUF.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\ccELQg9j.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\sUN1crYM.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\IhtR3TYT.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\HS+T0pI+.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\oSOShO6j.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\pN+H05Xq.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\tWflYl3Z.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\4M1pPXkK.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\Kg6kdwSi.gz
@@ -813,3 +849,7 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\Ecommerce.Web.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\refint\Ecommerce.Web.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\Ecommerce.Web.pdb
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\ref\Ecommerce.Web.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Blazored.LocalStorage.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\33Ej8HMR.gz

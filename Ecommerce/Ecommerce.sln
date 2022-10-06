@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Server", "Ecommerce.Server\Ecommerce.Server.csproj", "{A2E738B5-8A38-435B-9E07-08242A744883}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Server", "Ecommerce.Server\Ecommerce.Server.csproj", "{A2E738B5-8A38-435B-9E07-08242A744883}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Models.Entities", "Ecommerce.Models.Entities\Ecommerce.Models.Entities.csproj", "{0AAA65D4-7B20-4F5B-922B-19B878F42EB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Models.Entities", "Ecommerce.Models.Entities\Ecommerce.Models.Entities.csproj", "{0AAA65D4-7B20-4F5B-922B-19B878F42EB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Models.DTOS", "Ecommerce.Models.DTOS\Ecommerce.Models.DTOS.csproj", "{3C513694-8324-4976-A5ED-87C9D30E373D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Models.DTOS", "Ecommerce.Models.DTOS\Ecommerce.Models.DTOS.csproj", "{3C513694-8324-4976-A5ED-87C9D30E373D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.DataAccess", "Ecommerce.DataAccess\Ecommerce.DataAccess.csproj", "{0CC3D234-A9A4-42D9-8CD8-51F68F211A38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.DataAccess", "Ecommerce.DataAccess\Ecommerce.DataAccess.csproj", "{0CC3D234-A9A4-42D9-8CD8-51F68F211A38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Services.Server", "Ecommerce.Services.Server\Ecommerce.Services.Server.csproj", "{2B25FB1D-8116-4188-9AD3-B20DE78A9A37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Services.Server", "Ecommerce.Services.Server\Ecommerce.Services.Server.csproj", "{2B25FB1D-8116-4188-9AD3-B20DE78A9A37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Services.UI", "Ecommerce.Services.UI\Ecommerce.Services.UI.csproj", "{888A21EA-A168-4D47-BAA7-8C36EF33A047}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Services.UI", "Ecommerce.Services.UI\Ecommerce.Services.UI.csproj", "{888A21EA-A168-4D47-BAA7-8C36EF33A047}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Web", "Ecommerce.Web\Ecommerce.Web.csproj", "{4D8C9E2A-25EC-41EF-8B31-2B83EEDB0155}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Web", "Ecommerce.Web\Ecommerce.Web.csproj", "{4D8C9E2A-25EC-41EF-8B31-2B83EEDB0155}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Tests", "Ecommerce.Tests\Ecommerce.Tests.csproj", "{176438E3-018A-4C2C-A101-134AF7063828}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Tests", "Ecommerce.Tests\Ecommerce.Tests.csproj", "{176438E3-018A-4C2C-A101-134AF7063828}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Constants", "Ecommerce.Constants\Ecommerce.Constants.csproj", "{264F64C5-BBE2-4A4E-89BB-C0B60C883350}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Constants", "Ecommerce.Constants\Ecommerce.Constants.csproj", "{264F64C5-BBE2-4A4E-89BB-C0B60C883350}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

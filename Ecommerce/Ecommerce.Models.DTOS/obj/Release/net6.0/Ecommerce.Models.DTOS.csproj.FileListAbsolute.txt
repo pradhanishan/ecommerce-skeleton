@@ -1,0 +1,12 @@
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.DTOS\bin\Release\net6.0\Ecommerce.Models.DTOS.deps.json
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.DTOS\bin\Release\net6.0\Ecommerce.Models.DTOS.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.DTOS\bin\Release\net6.0\Ecommerce.Models.DTOS.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.DTOS\obj\Release\net6.0\Ecommerce.Models.DTOS.csproj.AssemblyReference.cache
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.DTOS\obj\Release\net6.0\Ecommerce.Models.DTOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.DTOS\obj\Release\net6.0\Ecommerce.Models.DTOS.AssemblyInfoInputs.cache
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.DTOS\obj\Release\net6.0\Ecommerce.Models.DTOS.AssemblyInfo.cs
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.DTOS\obj\Release\net6.0\Ecommerce.Models.DTOS.csproj.CoreCompileInputs.cache
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.DTOS\obj\Release\net6.0\Ecommerce.Models.DTOS.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.DTOS\obj\Release\net6.0\refint\Ecommerce.Models.DTOS.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.DTOS\obj\Release\net6.0\Ecommerce.Models.DTOS.pdb
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Models.DTOS\obj\Release\net6.0\ref\Ecommerce.Models.DTOS.dll

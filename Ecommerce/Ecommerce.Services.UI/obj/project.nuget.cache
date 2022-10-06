@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "xVG9byGmbT5zO0dmm9bqpi3vgqpGePBLQSHJijhAvB9XYuHQWiLN5rLpKwgpz795gQbTTwvbONFkdqLppt3WhA==",
+  "dgSpecHash": "4JRnK1idsGFKYMR2P7keKBkyyt3dPAcAYfOuVezDxwNFKCpqziEiyCuqJft815BqpmDl87L8akEednw3BQTc3w==",
   "success": true,
   "projectFilePath": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Services.UI\\Ecommerce.Services.UI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\i7p7x\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\i7p7x\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\i7p7x\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\i7p7x\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

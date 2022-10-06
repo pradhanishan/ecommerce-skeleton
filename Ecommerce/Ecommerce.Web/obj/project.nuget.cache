@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YnD8/Eptk6tjKg6skGO2UeeJ0dJtwZly3efvdMFDN0/J3yGqE2aUPz//Is2tC3WwooLU3tiOiGO2KIk2ZVFl2A==",
+  "dgSpecHash": "8eWQOB56JlJEVKsWJFZkSIzqeBWcN1e1+6HvOeS/HqjddlNblrEI5aooOdoCF/9wWNiXGt+XwrOsw7G7zJEmSg==",
   "success": true,
   "projectFilePath": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\i7p7x\\.nuget\\packages\\blazored.localstorage\\4.2.0\\blazored.localstorage.4.2.0.nupkg.sha512",
     "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.8\\microsoft.aspnetcore.authorization.6.0.8.nupkg.sha512",
     "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.8\\microsoft.aspnetcore.components.6.0.8.nupkg.sha512",
     "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.8\\microsoft.aspnetcore.components.analyzers.6.0.8.nupkg.sha512",
@@ -11,6 +12,8 @@
     "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.8\\microsoft.aspnetcore.components.web.6.0.8.nupkg.sha512",
     "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.8\\microsoft.aspnetcore.components.webassembly.6.0.8.nupkg.sha512",
     "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\6.0.8\\microsoft.aspnetcore.components.webassembly.devserver.6.0.8.nupkg.sha512",
+    "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.8\\microsoft.aspnetcore.metadata.6.0.8.nupkg.sha512",
     "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
@@ -28,6 +31,7 @@
     "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.jsinterop\\6.0.8\\microsoft.jsinterop.6.0.8.nupkg.sha512",
     "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.8\\microsoft.jsinterop.webassembly.6.0.8.nupkg.sha512",
+    "C:\\Users\\i7p7x\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\i7p7x\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\i7p7x\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\i7p7x\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
