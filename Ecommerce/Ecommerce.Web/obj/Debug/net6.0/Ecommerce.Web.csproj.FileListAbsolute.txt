@@ -629,14 +629,11 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\Ecommerce.Web.Ass
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\Ecommerce.Web.AssemblyInfo.cs
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\Ecommerce.Web.csproj.CoreCompileInputs.cache
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cache
-D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\eEQ92WV1.gz
-D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\YSrp08KE.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\fbN0tBWX.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\jxPb5bpC.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\+X+sKlVx.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\vDPFICEC.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\9N+BY0N4.gz
-D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\IK9u+ovF.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\jA6OU+cW.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\XEG5NMxR.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\Jkv2iGiw.gz
@@ -648,7 +645,6 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\LRvAfRjp
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\68MBqCrm.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\RkakxxVS.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\QFC7Boov.gz
-D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\Ll+T8sL+.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\zdilZ+qY.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\NykzQvmE.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\qhQcVl01.gz
@@ -853,3 +849,11 @@ D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framewor
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Blazored.LocalStorage.dll
 D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\33Ej8HMR.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\gka8A90S.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\n+S8yfRR.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\0gNv6efH.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\SYExu9xC.gz
+D:\ecommerce-skeleton\Ecommerce\Ecommerce.Web\obj\Debug\net6.0\build-gz\cJwJxK2R.gz

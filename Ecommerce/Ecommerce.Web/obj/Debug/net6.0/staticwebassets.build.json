@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iD8ns/BjB0dBgXeeisxbZlFPruyFtPuiCCgOjaRqBIc=",
+  "Hash": "ahx3sf365OSU+kIYY7N7fg77Y9hqw+gdL2YF+W5FS50=",
   "Source": "Ecommerce.Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -337,7 +337,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.8\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.9\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "Ecommerce.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.9\\lib\\net6.0\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -354,7 +371,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.8\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.9\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -456,7 +473,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.8\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.9\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -660,7 +677,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\i7p7x\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.2\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
@@ -3621,6 +3638,23 @@
       "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.dll"
     },
     {
+      "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\0gNv6efH.gz",
+      "SourceId": "Ecommerce.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
+    },
+    {
       "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\0gowN9+V.gz",
       "SourceId": "Ecommerce.Web",
       "SourceType": "Computed",
@@ -4386,6 +4420,23 @@
       "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Numerics.dll"
     },
     {
+      "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\cJwJxK2R.gz",
+      "SourceId": "Ecommerce.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
+    },
+    {
       "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\cLnf+usw.gz",
       "SourceId": "Ecommerce.Web",
       "SourceType": "Computed",
@@ -4588,23 +4639,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Transactions.Local.dll"
-    },
-    {
-      "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\eEQ92WV1.gz",
-      "SourceId": "Ecommerce.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\eewwl+L1.gz",
@@ -4930,6 +4964,23 @@
       "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.timezones.blat"
     },
     {
+      "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\gka8A90S.gz",
+      "SourceId": "Ecommerce.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
       "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\glwbgN8W.gz",
       "SourceId": "Ecommerce.Web",
       "SourceType": "Computed",
@@ -5098,23 +5149,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Ecommerce.Services.UI.dll"
-    },
-    {
-      "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\IK9u+ovF.gz",
-      "SourceId": "Ecommerce.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\IKj5wNTl.gz",
@@ -5491,23 +5525,6 @@
       "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Xml.dll"
     },
     {
-      "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\Ll+T8sL+.gz",
-      "SourceId": "Ecommerce.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
-    },
-    {
       "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\ll2+r3OS.gz",
       "SourceId": "Ecommerce.Web",
       "SourceType": "Computed",
@@ -5642,6 +5659,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.TextWriterTraceListener.dll"
+    },
+    {
+      "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\n+S8yfRR.gz",
+      "SourceId": "Ecommerce.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\nAklgVZg.gz",
@@ -6322,6 +6356,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.FileVersionInfo.dll"
+    },
+    {
+      "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\SYExu9xC.gz",
+      "SourceId": "Ecommerce.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\t7++7rtb.gz",
@@ -7019,23 +7070,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.TraceSource.dll"
-    },
-    {
-      "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\YSrp08KE.gz",
-      "SourceId": "Ecommerce.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "D:\\ecommerce-skeleton\\Ecommerce\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\yZ+KScPD.gz",
